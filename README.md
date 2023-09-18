@@ -1,1 +1,3 @@
-# oreshek
+# <img src="https://cdn-icons-png.flaticon.com/512/2054/2054367.png" alt="logo" width="32"/> Oreshek
+
+Coming soon...
